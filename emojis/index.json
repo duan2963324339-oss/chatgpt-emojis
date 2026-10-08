@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "description": "Curated official/source pages. These are references, not licensed image files or verified direct image URLs.",
+  "version": 3,
+  "description": "Sticker source catalog with individually HTTP-verified remote image URLs; copyright remains with creators.",
   "priority": [
     "月薪喵",
     "吉伊卡哇",
@@ -57,5 +57,24 @@
       "note": "Fan website; redistribution rights not established"
     }
   ],
-  "images": []
+  "images": [
+    {
+      "id": "maltese-30890-691386753",
+      "collection": "线条小狗",
+      "package_id": 30890,
+      "sticker_id": 691386753,
+      "image_url": "https://stickershop.line-scdn.net/stickershop/v1/sticker/691386753/iPhone/sticker_key@2x.png",
+      "source": "https://store.line.me/stickershop/product/30890/zh-Hant",
+      "creator": "Moonlab_studio",
+      "content_type": "image/png",
+      "http_verified": true,
+      "user_visual_confirmed": true,
+      "chat_inline_verified": false,
+      "tags": [
+        "可爱",
+        "日常"
+      ],
+      "license": "Copyright retained by original creator; link only, not rehosted"
+    }
+  ]
 }
