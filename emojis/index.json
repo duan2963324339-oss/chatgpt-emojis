@@ -1,15 +1,61 @@
 {
-  "version": 1,
-  "base_url": "https://cdn.jsdelivr.net/gh/duan2963324339-oss/chatgpt-emojis@main/emojis/",
-  "images": [],
-  "suggested_tags": [
-    "贴贴",
-    "无语",
-    "震惊",
-    "得意",
-    "嘲讽",
-    "开心",
-    "委屈",
-    "疑惑"
-  ]
+  "version": 2,
+  "description": "Curated official/source pages. These are references, not licensed image files or verified direct image URLs.",
+  "priority": [
+    "月薪喵",
+    "吉伊卡哇",
+    "线条小狗"
+  ],
+  "excluded": [
+    "卡皮巴拉",
+    "OpenMoji"
+  ],
+  "collections": [
+    {
+      "name": "月薪喵",
+      "priority": 1,
+      "source": "https://www.sina.cn/media/5626763209",
+      "sets": [
+        "月薪喵1",
+        "月薪喵2",
+        "月薪喵3",
+        "月薪喵幼年篇3"
+      ],
+      "tags": [
+        "搞怪",
+        "魔性",
+        "贴贴",
+        "坏笑",
+        "害羞",
+        "无语"
+      ],
+      "hosting": "source-link-only"
+    },
+    {
+      "name": "吉伊卡哇",
+      "priority": 2,
+      "source": "https://weibo.com/7963282024/PnQIQ2QJW",
+      "tags": [
+        "崩溃",
+        "得意",
+        "发疯",
+        "委屈"
+      ],
+      "hosting": "source-link-only"
+    },
+    {
+      "name": "线条小狗",
+      "priority": 2,
+      "source": "https://fieldost.com/",
+      "tags": [
+        "贴贴",
+        "亲亲",
+        "撒娇",
+        "害羞"
+      ],
+      "hosting": "source-link-only",
+      "note": "Fan website; redistribution rights not established"
+    }
+  ],
+  "images": []
 }
