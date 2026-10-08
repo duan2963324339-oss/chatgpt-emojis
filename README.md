@@ -1,17 +1,20 @@
-# ChatGPT Emojis 😺
+# ChatGPT 表情包图库
+在线图库：https://duan2963324339-oss.github.io/chatgpt-emojis/
 
-A public, lightweight emoji/sticker image library for use in chat.
+目前收录24张线条小狗（Moonlab_studio，LINE包30890）的外部CDN预览链接。
+支持按角色、ID、标签搜索，以及复制原始图片链接。本站不托管原图。
 
-## Add images
+偏好顺序：月薪喵 → 吉伊卡哇 → 线条小狗。月薪喵与吉伊卡哇目前只有来源入口，尚未收录已验证单图，不能声称三类图库均已完成。
 
-Put `.jpg`, `.png`, `.webp`, or `.gif` files in `emojis/` and update `emojis/index.json`. Use lowercase pinyin or English filenames.
+## 版权
+原图版权归作者所有。来源公开、能访问或能预览，不等于取得重新分发许可。
+不要将未经授权的原图上传到本仓库。添加条目只应整理合适的外部来源链接，并注明来源与验证状态。
 
-## CDN
+## 部署
+GitHub Pages从main分支根目录部署。67bee9ff534cb3e30722afc26be3c13ee68f4fdf已确认推送。
+网站验证与ChatGPT能力边界见DISPLAY_TEST.md。工具脚本和本地截图保存在work/，不上传原图截图到公开仓库。
 
-`https://cdn.jsdelivr.net/gh/duan2963324339-oss/chatgpt-emojis@main/emojis/tietie.jpg`
-
-Only upload images you have permission to share publicly. Avoid private photographs.
-
-## Status
-
-Repository scaffold only. No actual sticker images have been added yet. Display in ChatGPT and cross-chat automatic selection still require testing.
+## ChatGPT边界
+外部网页能展示图片，并不能证明ChatGPT回答能按指定URL嵌入它。
+本仓库不是ChatGPT插件；不能自动注入所有新对话，也不会监听聊天。
+修改CHATGPT_INSTRUCTIONS.md不等于修改账户记忆或个性化设置。
