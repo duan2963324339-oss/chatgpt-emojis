@@ -1,0 +1,32 @@
+[
+  {
+    "name": "maltese",
+    "source": "https://store.line.me/stickershop/product/30890/zh-Hant",
+    "page_status": 200,
+    "preview_url": null,
+    "preview_status": null,
+    "content_type": "",
+    "verified_image": false,
+    "note": "Page preview only, not necessarily an individual sticker."
+  },
+  {
+    "name": "moonlab",
+    "source": "https://store.line.me/stickershop/product/32170448/zh-Hant",
+    "page_status": 200,
+    "preview_url": null,
+    "preview_status": null,
+    "content_type": "",
+    "verified_image": false,
+    "note": "Page preview only, not necessarily an individual sticker."
+  },
+  {
+    "name": "yuexinmiao",
+    "source": "https://www.sina.cn/media/5626763209",
+    "page_status": 200,
+    "preview_url": null,
+    "preview_status": null,
+    "content_type": "",
+    "verified_image": false,
+    "note": "Page preview only, not necessarily an individual sticker."
+  }
+]
